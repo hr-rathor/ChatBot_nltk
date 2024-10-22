@@ -5,7 +5,7 @@ This project implements a machine learning-based chatbot that uses natural langu
 - **Clone the repository**:
 bash
 Copy code
-git clone https://github.com/hemanthrathor/chatbot.git
+git clone https://github.com/hr-rathor/ChatBot_nltk/blob/main/ChatBot.ipynb
 - **Install the dependencies**:
 bash
 Copy code
